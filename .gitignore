@@ -1,3 +1,6 @@
+# WANT THE KEYS TO STAY LOCAL
+API_keys.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
